@@ -53,3 +53,8 @@ This project allows users to:
   `cd ../frontend`  
   `npm install`  
   `npm start`
+
+6. Navigate to the admin folder, install dependencies, and start the admin panel:  
+  `cd ../admin`  
+  `npm install`  
+  `npm start`
