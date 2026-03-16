@@ -39,14 +39,10 @@ This project allows users to:
 ```bash
 git clone https://github.com/Diyu30/fullstack-food-delivery.git
 
----
-
 2. Navigate to the backend folder and install dependencies:
 ```bash
 cd backend
 npm install
-
----
 
 3. Create a .env file in the backend folder using .env as a reference:
 ```bash
