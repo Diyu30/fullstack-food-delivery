@@ -38,3 +38,13 @@ This project allows users to:
 1. Clone the repository:
 ```bash
 git clone https://github.com/Diyu30/fullstack-food-delivery.git
+
+2. Navigate to the backend folder and install dependencies:
+```bash
+cd backend
+npm install
+
+3. Create a .env file in the backend folder using .env as a reference:
+```bash
+JWT_SECRET="your_jwt_secret_here"
+STRIPE_SECRET_KEY="your_stripe_test_key_here"
